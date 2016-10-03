@@ -1,0 +1,198 @@
+NPC: 417---> Felhunter 
+Level: 60  Class: Normal  React: A H  Faction: PLAYER, Gnome  Health: 3,857  Mana: 1,666  Damage: 168 - 200  
+
+NPC: 740---> Adolescent Whelp 
+Level: 34 - 35  Class: Normal  React: A H  Faction: Dragonflight, Green  Health: 950 - 990  Mana: 2,553 - 2,680  Wealth: 56.5  Damage: 78 - 92  
+
+NPC: 766---> Tangled Horror 
+Level: 40 - 41  Class: Normal  React: A H  Faction: Monster  Health: 1,500  Mana: 1,283 - 1,332  Wealth: 75  Damage: 110 - 131  
+
+NPC: 1069---> Crimson Whelp 
+Level: 25 - 26  Class: Normal  React: A H  Faction: Dragonflight, Red  Health: 630 - 680  Mana: 655 - 693  Wealth: 40.5  Damage: 52 - 61  
+
+NPC: 2054---> Sickly Refugee 
+Level: 19 - 20  Class: Normal  React: A H  Faction: Stormwind  Health: 400 - 430  Wealth: 28.5  Damage: 37 - 44  
+
+NPC: 2359---> Elemental Slave 
+Level: 33 - 34  Class: Normal  React: A H  Faction: Dalaran  Health: 1,200 - 1,300  Damage: 70 - 82  
+
+NPC: 3581---> Sewer Beast 
+Level: 50  Class: Rare-Elite  React: A H  Faction: Monster  Health: 18,068  Damage: 393 - 467  
+
+NPC: 3802---> Severed Dreamer 
+Level: 29 - 30  Class: Normal  React: A H  Faction: Monster  Health: 730 - 770  Mana: 2,068 - 2,175  Wealth: 47  Damage: 64 - 75  
+
+NPC: 3803---> Severed Keeper 
+Level: 29 - 30  Class: Normal  React: A H  Faction: Monster  Health: 810 - 840  Mana: 811 - 852  Wealth: 49.5  Damage: 64 - 75  
+
+NPC: 3986---> Sarilus Foulborne 
+Level: 25  Class: Normal  React: A H  Faction: Undercity  Health: 570  Mana: 1,633  Wealth: 38  Damage: 52 - 61  
+
+NPC: 4020---> Sap Beast 
+Level: 22 - 23  Class: Normal  React: A H  Faction: Monster  Health: 570 - 610  Wealth: 36  Damage: 47 - 56  
+
+NPC: 4158---> Salt Flats Vulture 
+Level: 32 - 34  Class: Normal  React: A H  Faction: Beast - Carrion Bird  Health: 1,200 - 1,300  Damage: 70 - 82  
+
+NPC: 4550---> Ophelia Montague 
+Level: 45  Class: Normal  React: A H  Faction: Undercity  Health: 2,972  Damage: 110 - 131  
+
+NPC: 4685---> Ley Hunter 
+Level: 39 - 40  Class: Normal  React: A H  Faction: Demon  Health: 1,300 - 1,400  Mana: 1,236 - 1,283  Damage: 87 - 104  
+
+NPC: 5186---> Basking Shark 
+Level: 41  Class: Elite  React: A H  Faction: Monster  Health: 5,000 - 5,800  Damage: 304 - 361  
+
+NPC: 5726---> Jezelle's Felhunter 
+Level: 30  Class: Normal  React: A H  Faction: Undercity  Health: 1,605  Mana: 852  Damage: 64 - 75  
+
+NPC: 5729---> Jezelle's Voidwalker 
+Level: 40  Class: Normal  React: A H  Faction: Undercity  Health: 130  Damage: 93 - 110  
+
+NPC: 5730---> Jezelle's Imp 
+Level: 40  Class: Normal  React: A H  Faction: Undercity  Health: 2,200  Damage: 93 - 110  
+
+NPC: 6220---> Irradiated Horror 
+Level: 28 - 29  Class: Elite  React: A H  Faction: Elemental  Health: 2,212 - 2,423  Mana: 693 - 732  Damage: 214 - 254  
+
+NPC: 6226---> Mechano
+Level: 30 - 31  Class: Elite  React: A H  Faction: Gnome - Leper  Health: 2,385 - 2,506  Mana: 1,940  Wealth: 1 90  Damage: 295 - 351  
+
+NPC: 6227---> Mechano
+Level: 31 - 32  Class: Elite  React: A H  Faction: Gnome - Leper  Health: 2,551 - 2,744  Mana: 732  Wealth: 1 97  Damage: 295 - 351  
+
+NPC: 6233---> Mechanized Sentry 
+Level: 28 - 29  Class: Elite  React: A H  Faction: Gnome - Leper  Health: 3,283 - 3,579  Mana: 1,372  Wealth: 2 35.5  Damage: 197 - 234  
+
+NPC: 6352---> Coralshell Lurker 
+Level: 53 - 54  Class: Normal  React: A H  Faction: Creature  Health: 3,200 - 3,300  Damage: 141 - 168  
+
+NPC: 6546---> Tabetha 
+Level: 62  Class: Normal  React: A H  Faction: Friendly  Health: 1,200  Mana: 6,015  Damage: 266 - 316  
+
+NPC: 7172---> Lore Keeper of Norgannon 
+Level: 60  Class: Normal  React: A H  Faction: Friendly  Health: 2,100  Damage: 251 - 299  
+
+NPC: 7328---> Withered Reaver 
+Level: 35 - 36  Class: Elite  React: A H  Faction: Quilboar, Razorfen  Health: 3,748 - 4,046  Wealth: 2 58.5  Damage: 295 - 351  
+
+NPC: 7329---> Withered Quilguard 
+Level: 35 - 36  Class: Elite  React: A H  Faction: Quilboar, Razorfen  Health: 3,780 - 3,843  Wealth: 2 58.5  Damage: 295 - 351  
+
+NPC: 7334---> Battle Boar Horror 
+Level: 37  Class: Normal  React: A H  Faction: Quilboar, Razorfen  Health: 1,619  Damage: 84 - 99  
+
+NPC: 7765---> Rockbiter 
+Level: 45  Class: Normal  React: A H  Faction: Darnassus  Health: 2,200  Damage: 110 - 131  
+
+NPC: 7849---> Mobile Alert System 
+Level: 25  Class: Normal  React: A H  Faction: Gnome - Leper  Health: 70  Damage: 72 - 86  
+
+NPC: 7864---> Lingering Highborne 
+Level: 48 - 50  Class: Normal  React: A H  Faction: Undead, Scourge  Health: 2,600 - 2,700  Wealth: 1 12  Damage: 141 - 169  
+
+NPC: 7997---> Captured Sprite Darter 
+Level: 41  Class: Normal  React: A H  Faction: Alliance Generic  Health: 1,600  Mana: 1,381 - 1,432  Wealth: 86.5  Damage: 101 - 120  
+
+NPC: 8130---> Sul'lithuz Hatchling 
+Level: 30  Class: Elite  React: A H  Faction: Monster  Health: 3,328  Damage: 214 - 254  
+
+NPC: 8204---> Soriid the Devourer 
+Level: 50  Class: Rare  React: A H  Faction: Silithid  Health: 2,700  Damage: 428 - 509  
+
+NPC: 8856---> Tyrion's Spybot 
+Level: 25  Class: Normal  React: A H  Faction: Gnomeregan Exiles  Health: 1,300  Damage: 47 - 56  
+
+NPC: 9377---> Swirling Vortex 
+Level: 33 - 34  Class: Normal  React: A H  Faction: Elemental  Health: 1,200 - 1,300  Damage: 78 - 93  
+
+NPC: 9496---> Gorishi Egg 
+Level: 50 - 51  Class: Normal  React: A H  Faction: Silithid  Health: 220 - 230  Damage: 130 - 154  
+
+NPC: 9683---> Lar'korwi Mate 
+Level: 49 - 50  Class: Normal  React: A H  Faction: Beast - Raptor  Health: 2,700  Damage: 124 - 148  
+
+NPC: 10981---> Frostwolf 
+Level: 50 - 51  Class: Normal  React: A H  Faction: Frostwolf Clan  Health: 2,200 - 5,200  Damage: 168 - 200  
+
+NPC: 11576---> Whirlwind Ripper 
+Level: 32 - 34  Class: Normal  React: A H  Faction: Elemental  Health: 1,200 - 1,300  Damage: 72 - 86  
+
+NPC: 11577---> Whirlwind Stormwalker 
+Level: 35 - 37  Class: Normal  React: A H  Faction: Elemental  Health: 1,100 - 1,200  Mana: 1,067 - 1,142  Damage: 84 - 99  
+
+NPC: 11578---> Whirlwind Shredder 
+Level: 32 - 34  Class: Normal  React: A H  Faction: Elemental  Health: 1,200 - 1,300  Damage: 70 - 82  
+
+NPC: 11684---> Warsong Shredder 
+Level: 27  Class: Normal  React: A H  Faction: Horde Generic  Health: 830 - 890  Wealth: 47.5  Damage: 64 - 75  
+
+NPC: 11686---> Ghostly Raider 
+Level: 40 - 41  Class: Normal  React: A H  Faction: Maraudine  Health: 1,800 - 1,900  Wealth: 84.5  Damage: 95 - 113  
+
+NPC: 12378---> Damned Soul 
+Level: 59 - 60  Class: Normal  React: A H  Faction: Undead, Scourge  Health: 4,500 - 4,700  Mana: 6,882 - 7,031  Wealth: 2 25  Damage: 251 - 299  
+
+NPC: 12736---> Je'neu Sancrea 
+Level: 25  Class: Normal  React: A H  Faction: Darkspear Trolls  Health: 810  Mana: 1,633  Damage: 47 - 56  
+
+NPC: 13618---> Stabled Frostwolf 
+Level: 50  Class: Normal  React: A H  Faction: Frostwolf Clan  Health: 3,517  Damage: 130 - 154  
+
+NPC: 13916---> Dire Maul Crystal Totem 
+Level: 52  Class: Normal  React: A H  Faction: Monster  Health: 3,748  Mana: 2,306  Damage: 75 - 96  
+
+NPC: 14222---> Araga 
+Level: 35  Class: Rare  React: A H  Faction: Monster  Health: 1,300  Damage: 260 - 310  
+
+NPC: 14228---> Giggler 
+Level: 34  Class: Rare  React: A H  Faction: Monster  Health: 1,300  Damage: 252 - 299  
+
+NPC: 14283---> Stormpike Owl 
+Level: 53 - 54  Class: Normal  React: A H  Faction: Stormpike Guard  Health: 1,700 - 2,300  Damage: 168 - 200  
+
+NPC: 14337---> Field Repair Bot 74A 
+Level: 50  Class: Normal  React: A H  Faction: Friendly  Health: 970  Damage: 130 - 154  
+
+NPC: 14345---> The Ongar 
+Level: 51  Class: Rare  React: A H  Faction: Monster  Health: 3,000  Wealth: 1 25  Damage: 440 - 522  
+
+NPC: 14470---> Impsy 
+Level: 56  Class: Normal  React: A H  Faction: Friendly  Health: 2,400  Mana: 2,163  Damage: 151 - 179  
+
+NPC: 14527---> Simone the Inconspicuous 
+Level: 60  Class: Elite  React: A H  Faction: Battleground Neutral  Health: 13,000  Mana: 12,170  Damage: 807 - 960  
+
+NPC: 14536---> Nelson the Nice 
+Level: 60  Class: Elite  React: A H  Faction: Battleground Neutral  Health: 19,000  Mana: 12,170  Damage: 807 - 960  
+
+NPC: 15079---> Fishbot 5000 
+Level: 50  Class: Normal  React: A H  Faction: Friendly  Health: 2,100  Damage: 190 - 234  
+
+NPC: 15624---> Forest Wisp 
+Level: 8  Class: Normal  React: A H  Faction: Friendly  Health: 120 - 21,000  Damage: 12 - 14  
+
+NPC: 15747---> Qiraji Captain 
+Level: 35  Class: Elite  React: A H  Faction: Armies of C'Thun  Health: 11,000  Damage: 16 - 21  
+
+NPC: 15748---> Lesser Anubisath Warbringer 
+Level: 33 - 35  Class: Elite  React: A H  Faction: Armies of C'Thun  Health: 5,200 - 6,000  Damage: 16 - 21  
+
+NPC: 15806---> Qiraji Lieutenant 
+Level: 28  Class: Elite  React: A H  Faction: Armies of C'Thun  Health: 8,100  Wealth: 70 35.5  Damage: 249 - 320  
+
+NPC: 15807---> Minor Anubisath Warbringer 
+Level: 25  Class: Elite  React: A H  Faction: Armies of C'Thun  Health: 3,400  Wealth: 84 48.5  Damage: 224 - 288  
+
+NPC: 15812---> Qiraji Officer 
+Level: 18 - 20  Class: Elite  React: A H  Faction: Armies of C'Thun  Health: 2,800 - 3,600  Damage: 164 - 210  
+
+NPC: 15813---> Qiraji Officer Zod 
+Level: 20  Class: Elite  React: A H  Faction: Armies of C'Thun  Health: 240  Damage: 16 - 21  
+
+NPC: 15814---> Qiraji Lieutenant Jo
+Level: 28  Class: Elite  React: A H  Faction: Armies of C'Thun  Health: 352  Damage: 16 - 21  
+
+NPC: 17113---> Captured Crocolisk 
+Level: 38 - 39  Class: Normal  React: A H  Faction: Friendly  Health: 240 - 1,000  Damage: 110 - 124  
+
